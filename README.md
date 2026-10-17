@@ -11,7 +11,7 @@
 <br>
 
 <!-- BADGES_START -->
-<a href="https://github.com/adilsukumar/DSA_Data-Structures-and-Algorithms"><img src="https://img.shields.io/badge/Problems%20Solved-121-blueviolet?style=for-the-badge&logo=codeforces" /></a>
+<a href="https://github.com/adilsukumar/DSA-Data-Structures-and-Algorithms"><img src="https://img.shields.io/badge/Problems%20Solved-121-blueviolet?style=for-the-badge&logo=codeforces" /></a>
 <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-33-FFA116?style=for-the-badge&logo=leetcode" /></a>
 <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-88-5B4638?style=for-the-badge&logo=codechef" /></a>
 <a href="#attempt-history"><img src="https://img.shields.io/badge/Attempts-787-6c757d?style=for-the-badge" /></a>
