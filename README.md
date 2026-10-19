@@ -1,3 +1,7 @@
+<!-- DSA_DESIGN_hero_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/hero-mobile.svg"/><img src="assets/readme/hero.svg" width="100%" alt="Data Structures and Algorithms: One problem. A clearer way to think. The complete original README follows."/></picture></p>
+<!-- DSA_DESIGN_hero_END -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=DSA%20Journey&fontSize=55&fontAlignY=38&desc=LeetCode%20•%20CodeChef%20•%20Competitive%20Programming&descAlignY=58"/>
@@ -27,6 +31,10 @@
 
 ---
 
+<!-- DSA_DESIGN_directory_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-directory-mobile.svg"/><img src="assets/readme/section-directory.svg" width="100%" alt="FIND YOUR WAY. The full original directory, links and sections."/></picture></p>
+<!-- DSA_DESIGN_directory_END -->
+
 ## 📌 Quick Navigation
 
 <p align="center">
@@ -41,6 +49,10 @@
 </p>
 
 ---
+
+<!-- DSA_DESIGN_practice_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-practice-mobile.svg"/><img src="assets/readme/section-practice.svg" width="100%" alt="THE PRACTICE LOG. Problems, patterns and the thinking behind them."/></picture></p>
+<!-- DSA_DESIGN_practice_END -->
 
 ## 📖 About This Repository
 
@@ -63,6 +75,10 @@ Problems are solved from:
 
 ---
 
+<!-- DSA_DESIGN_goals_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-goals-mobile.svg"/><img src="assets/readme/section-goals.svg" width="100%" alt="THE LONG GAME. Consistency, foundations and interview preparation."/></picture></p>
+<!-- DSA_DESIGN_goals_END -->
+
 ## 🎯 Goals
 
 * Solve **1000+ DSA Problems**
@@ -74,6 +90,10 @@ Problems are solved from:
 * Participate Regularly in Competitive Programming Contests
 
 ---
+
+<!-- DSA_DESIGN_progress_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-progress-mobile.svg"/><img src="assets/readme/section-progress.svg" width="100%" alt="PROGRESS, IN THE OPEN. Live badges, charts, milestones and difficulty tables."/></picture></p>
+<!-- DSA_DESIGN_progress_END -->
 
 ## 📊 Progress Dashboard
 
@@ -194,6 +214,10 @@ These are tracked separately and do not count as solved problems.
 
 ---
 
+<!-- DSA_DESIGN_index_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-index-mobile.svg"/><img src="assets/readme/section-index.svg" width="100%" alt="EVERY PROBLEM HAS A PLACE. The generated index and solution write-ups."/></picture></p>
+<!-- DSA_DESIGN_index_END -->
+
 ## 🗂 Problem Index
 
 Every solved problem is catalogued in **[INDEX.md](INDEX.md)** — searchable by
@@ -208,6 +232,10 @@ approach and why it is better.
 
 ---
 
+<!-- DSA_DESIGN_stack_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-stack-mobile.svg"/><img src="assets/readme/section-stack.svg" width="100%" alt="THE TOOLKIT. Original language and development-tool icons."/></picture></p>
+<!-- DSA_DESIGN_stack_END -->
+
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -217,6 +245,10 @@ approach and why it is better.
 </div>
 
 ---
+
+<!-- DSA_DESIGN_structure_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-structure-mobile.svg"/><img src="assets/readme/section-structure.svg" width="100%" alt="ORDER IN THE ARCHIVE. Platforms, submissions and the filing pipeline."/></picture></p>
+<!-- DSA_DESIGN_structure_END -->
 
 ## 📂 Repository Structure
 
@@ -250,6 +282,10 @@ DSA_Data-Structures-and-Algorithms
 ```
 
 ---
+
+<!-- DSA_DESIGN_sync_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-sync-mobile.svg"/><img src="assets/readme/section-sync.svg" width="100%" alt="THE AUTOMATION STAYS. Extension, schedules, imports, commits and pushes."/></picture></p>
+<!-- DSA_DESIGN_sync_END -->
 
 ## ⚙️ How This Repository Stays Updated
 
@@ -322,6 +358,10 @@ resumes, since problems already in the repo are skipped.
 ---
 
 
+<!-- DSA_DESIGN_analytics_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-analytics-mobile.svg"/><img src="assets/readme/section-analytics.svg" width="100%" alt="THE WIDER PICTURE. Your original GitHub cards and streak statistics."/></picture></p>
+<!-- DSA_DESIGN_analytics_END -->
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -338,6 +378,10 @@ resumes, since problems already in the repo are skipped.
 
 ---
 
+<!-- DSA_DESIGN_activity_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-activity-mobile.svg"/><img src="assets/readme/section-activity.svg" width="100%" alt="KEEP THE ACTIVITY MOVING. The original contribution snake stays here."/></picture></p>
+<!-- DSA_DESIGN_activity_END -->
+
 ## 🐍 Contribution Activity
 
 <div align="center">
@@ -348,6 +392,10 @@ resumes, since problems already in the repo are skipped.
 
 ---
 
+<!-- DSA_DESIGN_philosophy_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-philosophy-mobile.svg"/><img src="assets/readme/section-philosophy.svg" width="100%" alt="ONE STEP, REPEATED. Your original quote and philosophy, preserved."/></picture></p>
+<!-- DSA_DESIGN_philosophy_END -->
+
 ## 💡 Philosophy
 
 > Success is the sum of small efforts, repeated day in and day out.
@@ -357,6 +405,10 @@ Every solved problem is another step toward becoming a stronger engineer.
 **Consistency Today → Excellence Tomorrow.**
 
 ---
+
+<!-- DSA_DESIGN_contact_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/section-contact-mobile.svg"/><img src="assets/readme/section-contact.svg" width="100%" alt="THE PERSON BEHIND THE CODE. Every original contact badge and link."/></picture></p>
+<!-- DSA_DESIGN_contact_END -->
 
 ## 🤝 Connect With Me
 
@@ -389,3 +441,8 @@ If you find this repository useful, consider giving it a star.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
+
+
+<!-- DSA_DESIGN_ending_START -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/readme/closing-mobile.svg"/><img src="assets/readme/closing.svg" width="100%" alt="Understand it. Then improve it. The original quote, footer and all content above are retained."/></picture></p>
+<!-- DSA_DESIGN_ending_END -->
